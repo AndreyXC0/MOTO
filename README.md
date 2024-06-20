@@ -1,6 +1,8 @@
 # MOTO
 ### Мотоцикл который я хочу __YAMAHA YBR 125__
-![Фото](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Yamaha_YBR125_%28Fuel_Injection_-_EU_Spec%29.JPG/800px-Yamaha_YBR125_%28Fuel_Injection_-_EU_Spec%29.JPG?20100111175939)  
+![Фото 1](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Yamaha_YBR125_%28Fuel_Injection_-_EU_Spec%29.JPG/800px-Yamaha_YBR125_%28Fuel_Injection_-_EU_Spec%29.JPG?20100111175939)  
+![Фото 2](https://bestmoto.pro/wp-content/uploads/2020/05/yamaha-ybr125.jpg)
+![Фото 3](https://cdn.riastatic.com/photosnewr/auto/newauto_photos/yamaha-ybr__626436-620x415x70.jpg)
 123,7 см3 | 10,2 лс | 122 кг | 110 км/ч (максимальная скорость)
 
 ### Экипировка
