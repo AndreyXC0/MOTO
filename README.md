@@ -1,9 +1,12 @@
-# MOTO
-### Мотоцикл который я хочу __YAMAHA YBR 125__
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Yamaha_YBR125_%28Fuel_Injection_-_EU_Spec%29.JPG/800px-Yamaha_YBR125_%28Fuel_Injection_-_EU_Spec%29.JPG?20100111175939" width="200" height="400"/>
-<img scr="https://bestmoto.pro/wp-content/uploads/2020/05/yamaha-ybr125.jpg" width=200 height=400/>
-<img scr="https://cdn.riastatic.com/photosnewr/auto/newauto_photos/yamaha-ybr__626436-620x415x70.jpg" width=200 height=400/>
-123,7 см3 | 10,2 лс | 122 кг | 110 км/ч (максимальная скорость)
+# __YAMAHA YBR 125__
+#### Сравнение мощности разных мотоциклов
+| Название   | см3 | лс |
+| ---------- | --- | -- |
+| Урал       | 650 | 35 |
+| ИЖ Планета | 350 | 22 |
+| Минск      | 123 | 12 |
+| YAMAHA YBR | 123 | 10 |
+
 
 ### Экипировка
 Для мотошлемов существует стандарт [`ECE 22.05`](https://agvsport.com/blog/helmets/the-ece-helmet-standard.html), шлем с такой сертификацией был проверен:
